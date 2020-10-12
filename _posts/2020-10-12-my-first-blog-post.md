@@ -8,6 +8,6 @@ Will talk about a lot of things like:
 -resources
 
 ---
-title:Blog 1
+title:"Blog1"
 date:2020-10-11
 ---
